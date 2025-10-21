@@ -24,10 +24,11 @@ Branches in this repo (with details):
     1534a9f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T10:16:10Z | Auto-update branch-info.txt
     0202912 | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-21T06:15:54-04:00 | Initial commit
 - main
-  SHA: 290ee716152fa1a0275859059ebb07af4b25b465
-  Commits: 4
+  SHA: 524231bc968db32853d5b4f96f89b58d1497c845
+  Commits: 7
   Recent commits:
+    524231b | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-10-21T12:48:14Z | Merge branch 'lab7'
+    b7a8de2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T12:34:52Z | Auto-update branch-info.txt
+    bfff738 | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-10-21T12:34:26Z | Completed all the steps of lab-7
     290ee71 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T10:17:16Z | Auto-update branch-info.txt
     7dcbf91 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T10:16:53Z | Auto-update branch-info.txt
-    1534a9f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T10:16:10Z | Auto-update branch-info.txt
-    0202912 | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-21T06:15:54-04:00 | Initial commit
