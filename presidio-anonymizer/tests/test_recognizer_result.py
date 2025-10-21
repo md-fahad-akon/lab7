@@ -287,9 +287,31 @@ def test_given_negative_start_or_endpoint_then_we_fail(start, end):
 from unittest import mock
 @mock.patch.object(RecognizerResult, "logger")
 def test_logger(mock_logger):
-    # replace the following line of `pass` with your test implementation
-    pass
-
+    # Create a recognizer result with specific values
+    entity_type = "PERSON"
+    start = 10
+    end = 20
+    score = 0.85
+    
+    result = create_recognizer_result(
+        entity_type=entity_type,
+        start=start,
+        end=end,
+        score=score
+    )
+    
+    # Assert that logger.info was called
+    mock_logger.info.assert_called()
+    
+    # Get the actual log message that was passed to logger.info
+    call_args = mock_logger.info.call_args[0][0]
+    
+    # Assert the log message contains all required values
+    assert entity_type in call_args
+    assert str(start) in call_args
+    assert str(end) in call_args
+    assert f"{score:.2f}" in call_args
+    
 def create_recognizer_result(entity_type: str, score: float, start: int, end: int):
     data = {"entity_type": entity_type, "score": score, "start": start, "end": end}
     return RecognizerResult.from_json(data)
