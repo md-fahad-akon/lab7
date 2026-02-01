@@ -1,12 +1,14 @@
 Branches in this repo (with details):
 
-- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
-  SHA: 9d465323523d1add2565f7febdd7cb342f0d2acf
-  Commits: 3
+- dependabot/docker/presidio-anonymizer/python-3.15.0a5-windowsservercore
+  SHA: 3398d3e860f8554b5822415a6301708c69134498
+  Commits: 10
   Recent commits:
-    9d46532 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-21T10:16:52Z | Bump python in /presidio-anonymizer
-    1534a9f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T10:16:10Z | Auto-update branch-info.txt
-    0202912 | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-21T06:15:54-04:00 | Initial commit
+    3398d3e | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2026-02-01T10:18:18Z | Bump python in /presidio-anonymizer
+    a9145a7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T12:16:33Z | Auto-update branch-info.txt
+    2583b69 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T12:48:46Z | Auto-update branch-info.txt
+    524231b | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-10-21T12:48:14Z | Merge branch 'lab7'
+    b7a8de2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T12:34:52Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-6
   SHA: feb7d502e2657ffb3846eb6a80c037cdfe594bc9
   Commits: 9
@@ -26,11 +28,11 @@ Branches in this repo (with details):
     1534a9f | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T10:16:10Z | Auto-update branch-info.txt
     0202912 | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-21T06:15:54-04:00 | Initial commit
 - main
-  SHA: 2583b69b13b11f9c2b53a0c89f7093fbce8a2371
-  Commits: 8
+  SHA: a9145a7d77dadd8906dca90f3ba6cd745922ee8c
+  Commits: 9
   Recent commits:
+    a9145a7 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T12:16:33Z | Auto-update branch-info.txt
     2583b69 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T12:48:46Z | Auto-update branch-info.txt
     524231b | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-10-21T12:48:14Z | Merge branch 'lab7'
     b7a8de2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T12:34:52Z | Auto-update branch-info.txt
     bfff738 | Author: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Committer: Fahad Akon <75163075+md-fahad-akon@users.noreply.github.com> | Date: 2025-10-21T12:34:26Z | Completed all the steps of lab-7
-    290ee71 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-21T10:17:16Z | Auto-update branch-info.txt
